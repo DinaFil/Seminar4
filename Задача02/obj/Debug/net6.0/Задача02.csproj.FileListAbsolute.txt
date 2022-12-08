@@ -1,0 +1,15 @@
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\obj\Debug\net6.0\Задача02.csproj.AssemblyReference.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\obj\Debug\net6.0\Задача02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\obj\Debug\net6.0\Задача02.AssemblyInfoInputs.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\obj\Debug\net6.0\Задача02.AssemblyInfo.cs
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\obj\Debug\net6.0\Задача02.csproj.CoreCompileInputs.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\bin\Debug\net6.0\Задача02.exe
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\bin\Debug\net6.0\Задача02.deps.json
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\bin\Debug\net6.0\Задача02.runtimeconfig.json
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\bin\Debug\net6.0\Задача02.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\bin\Debug\net6.0\Задача02.pdb
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\obj\Debug\net6.0\Задача02.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\obj\Debug\net6.0\refint\Задача02.dll
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\obj\Debug\net6.0\Задача02.pdb
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\obj\Debug\net6.0\Задача02.genruntimeconfig.cache
+C:\Users\Filippov\Documents\Учеба Дина\C#\Семинары\Cеминар 4\Задача02\obj\Debug\net6.0\ref\Задача02.dll
